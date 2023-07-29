@@ -28,7 +28,7 @@ Hence, The goal of this project is to automate the process of importing .csv fil
 
 * Install PostgreSQL and pgAdmin (Note: While setting up the both applications, set password = '1111')
 * Check whether the .csv file is encoded in UTF-8 format or not using Notepad++. If your file is not in csv format convert it using Notepad++        
-* Make sure your .csv file has not any columns without header or with header ontain certain special characters, such as colons (":"). Column names must start with a letter or an underscore ( _ ).
+* Make sure your .csv file has not any columns without header or with header ontaining special characters, such as colons (":"). Column names must start with a letter or an underscore ( _ ).
 
 
 ## How to use?
