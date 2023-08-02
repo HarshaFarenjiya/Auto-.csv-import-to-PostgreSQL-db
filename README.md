@@ -34,8 +34,8 @@ Hence, The goal of this project is to automate the process of importing .csv fil
 ## How to use?
 
 1. Download and install PostgreSQL and pgAdmin as instructed above.
-2. Download .exe file and place it in a new folder.
+2. Download .py file and place it in a new folder.
 3. Place any .csv file in that new folder also.
-4. Execute the .exe file and get your desired data in PostgreSQL database.
+4. Run the file and get your desired data in PostgreSQL database.
 
 </div>
