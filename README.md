@@ -26,16 +26,10 @@ Hence, The goal of this project is to automate the process of importing .csv fil
 
 ## Prerequisites
 
-* Install PostgreSQL and pgAdmin (Note: While setting up the both applications, set password = '1111')
+* Install PostgreSQL and pgAdmin
+* Create a Python configuration file (I've attached mine- confini.ipynb) so that we can use it to store and retrieve values like username, host, database name, and password.
 * Check whether the .csv file is encoded in UTF-8 format or not using Notepad++. If your file is not in csv format convert it using Notepad++        
 * Make sure your .csv file has not any columns without header or with header ontaining special characters, such as colons (":"). Column names must start with a letter or an underscore ( _ ).
 
-
-## How to use?
-
-1. Download and install PostgreSQL and pgAdmin as instructed above.
-2. Download .py file and place it in a new folder.
-3. Place any .csv file in that new folder also.
-4. Run the file and get your desired data in PostgreSQL database.
 
 </div>
